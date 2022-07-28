@@ -1,9 +1,9 @@
 {
-  "vendor": "vtex",
-  "name": "product-summary",
-  "version": "2.80.1",
-  "title": "Product Summary",
-  "description": "Product summary component",
+  "vendor": "street47",
+  "name": "product-summary-pow",
+  "version": "0.0.12",
+  "title": "Product Summary Pow",
+  "description": "Product summary component Pow",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",
