@@ -1,7 +1,7 @@
 {
   "vendor": "street47",
   "name": "product-summary-pow",
-  "version": "0.x",
+  "version": "0.1",
   "title": "Product Summary Pow",
   "description": "Product summary Pow component",
   "defaultLocale": "pt-BR",
