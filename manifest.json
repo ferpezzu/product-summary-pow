@@ -20,6 +20,7 @@
     "vtex.store-components": "3.x",
     "vtex.store-resources": "0.x",
     "vtex.product-summary-context": "0.x",
+    "vtex.product-summary": "2.x",
     "vtex.styleguide": "9.x",
     "vtex.pixel-manager": "1.x",
     "vtex.device-detector": "0.x",
