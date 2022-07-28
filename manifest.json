@@ -1,9 +1,9 @@
 {
   "vendor": "vtex",
-  "name": "product-summary",
-  "version": "2.80.1",
-  "title": "Product Summary",
-  "description": "Product summary component",
+  "name": "product-summary-pow",
+  "version": "0.x",
+  "title": "Product Summary Pow",
+  "description": "Product summary Pow component",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",
