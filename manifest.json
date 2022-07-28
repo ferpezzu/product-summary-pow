@@ -1,9 +1,9 @@
 {
-  "vendor": "street47",
+  "vendor": "vtex",
   "name": "product-summary",
-  "version": "0.0.9",
-  "title": "Product Summary Pow",
-  "description": "Product summary Pow component",
+  "version": "2.80.1",
+  "title": "Product Summary",
+  "description": "Product summary component",
   "defaultLocale": "pt-BR",
   "builders": {
     "messages": "1.x",
@@ -20,7 +20,6 @@
     "vtex.store-components": "3.x",
     "vtex.store-resources": "0.x",
     "vtex.product-summary-context": "0.x",
-    "vtex.product-summary": "2.x",
     "vtex.styleguide": "9.x",
     "vtex.pixel-manager": "1.x",
     "vtex.device-detector": "0.x",
