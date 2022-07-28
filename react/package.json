@@ -1,5 +1,5 @@
 {
-  "name": "vtex.product-summary",
+  "name": "street47.product-summary-pow",
   "scripts": {
     "test": "vtex-test-tools test",
     "lint": "tsc --noEmit && eslint --quiet --fix --ext ts,tsx ."
